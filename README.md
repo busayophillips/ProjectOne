@@ -31,11 +31,6 @@ Here's a walkthrough of implemented user stories:
 
 file:///Users/Busayo/Desktop/test.gif
 
-<<<<<<< HEAD
-
-=======
->>>>>>> c5d7d961bda34744b654bffb57b235dc43c1f099
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
